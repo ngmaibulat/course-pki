@@ -1,0 +1,8 @@
+set_var EASYRSA_REQ_COUNTRY    "TR"
+set_var EASYRSA_REQ_PROVINCE   "Istanbul"
+set_var EASYRSA_REQ_CITY       "Istanbul"
+set_var EASYRSA_REQ_ORG        "NGM"
+set_var EASYRSA_REQ_EMAIL      "admin@example.com"
+set_var EASYRSA_REQ_OU         "Community"
+set_var EASYRSA_ALGO           "ec"
+set_var EASYRSA_DIGEST         "sha512"
